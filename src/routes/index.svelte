@@ -9,4 +9,4 @@
 </script>
  
 <Header title={"My Biography"}/>
-<Section {"...myInfo"} />
+<Section {...myInfo} />
