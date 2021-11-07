@@ -17,4 +17,12 @@
         <p>{item1}</p>
         <p>{item2}</p>
         <p>{item3}</p>
+        <h3>{title1}</h3>
+        <p>{item4}</p>
+        <p>{item5}</p>
+        <p>{item6}</p>
+        <h3>{title2}</h3>
+        <p>{item7}</p>
+        <p>{item8}</p>
+        <p>{item9}</p>
     </div>
