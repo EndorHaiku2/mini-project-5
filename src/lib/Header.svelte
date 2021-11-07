@@ -3,5 +3,5 @@
 
 </script>
 
-<h1>{title}</h1>
+<h1 class="text-center bg-primary">{title}</h1>
 
