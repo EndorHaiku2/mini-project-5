@@ -3,26 +3,10 @@
     export let item1
     export let item2
     export let item3
-    export let title1
-    export let item4
-    export let item5
-    export let item6
-    export let title2
-    export let item7
-    export let item8
-    export let item9
-</script>
+    </script>
     <div>
         <h3>{title}</h3>
         <p>{item1}</p>
         <p>{item2}</p>
         <p>{item3}</p>
-        <h3>{title1}</h3>
-        <p>{item4}</p>
-        <p>{item5}</p>
-        <p>{item6}</p>
-        <h3>{title2}</h3>
-        <p>{item7}</p>
-        <p>{item8}</p>
-        <p>{item9}</p>
     </div>
