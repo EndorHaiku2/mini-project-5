@@ -4,7 +4,7 @@
     export let item2
     export let item3
     </script>
-    <div>
+    <div class="text-center">
         <h3>{title}</h3>
         <p>{item1}</p>
         <p>{item2}</p>
