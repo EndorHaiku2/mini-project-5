@@ -10,4 +10,3 @@
         <p>{item2}</p>
         <p>{item3}</p>
     </div>
-    <Section {...myInfo} />
